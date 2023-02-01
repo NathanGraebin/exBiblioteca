@@ -195,7 +195,7 @@ public class CalculadoraTJavaUI extends javax.swing.JFrame {
        String strResultado = String.valueOf(resultado);
        
        //Apresenta o resultado na caixa
-       txtResultado.setText(strResultado);
+       txtResultado.setText(strResultado); //@
         
     }//GEN-LAST:event_btnDividirActionPerformed
 
